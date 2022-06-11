@@ -1,2 +1,2 @@
-# MedicCenter
+# MediCenter
 Login system for Clinic
